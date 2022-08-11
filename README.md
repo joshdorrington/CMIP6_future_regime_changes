@@ -1,6 +1,6 @@
 # CMIP6 future regime changes
 
-## This repository contains files needed to reproduce the results of the paper 'Wintertime blocking regimes over Europe are projected to become less persistent in a warming climate', written by Josh Dorrington, Kristian Strommen, Federico Fabiano and Franco Molteni. It contains:
+## This repository contains files needed to reproduce the results of the paper 'Wintertime blocking regimes over Europe are projected to become less persistent in a warming climate', written by Josh Dorrington, Kristian Strommen, Federico Fabiano and Franco Molteni. It **WILL SOON** contain:
 * hist_patterns.nc: CMIP6 historical patterns
 * fut_patterns.nc: CMIP6 SSP5:8.5 patterns
 * hist_occ.nc, hist_pers.nc: CMIP6 historical occurrence and persistence statistics
